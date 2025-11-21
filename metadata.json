@@ -1,0 +1,7 @@
+{
+  "name": "NetOps Omni-Agent",
+  "description": "A multi-persona AI network engineering assistant featuring Triage, Analyst, and Architect modes with voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
